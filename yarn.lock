@@ -18155,10 +18155,10 @@ svgo@^1.0.0:
     unquote "~1.1.1"
     util.promisify "~1.0.0"
 
-swagger-ui-dist@3.35.0:
-  version "3.35.0"
-  resolved "https://registry.yarnpkg.com/swagger-ui-dist/-/swagger-ui-dist-3.35.0.tgz#af68c2164aba18847d951e6bee19f5b1e3aca98f"
-  integrity sha512-VdjOd7Lpj3LU6V/SG9BHZHTJ5cTk+uoyHBrGAeEP70SYf7GflLYqw7USUNxoraEx72vIA1wqogMv4GiRqMr8lA==
+swagger-ui-dist@4.8.1:
+  version "4.8.1"
+  resolved "https://registry.yarnpkg.com/swagger-ui-dist/-/swagger-ui-dist-4.8.1.tgz#d2f8957819e61c74cc5be024df4d5ec1aea47adf"
+  integrity sha512-Lfe0EOYw7rK//k9CIrz/jkztpJBwC+MwpFhYWke2GyjyALS/tg907lF7vUg6LKerPtgZ5CBzwN/e35w8T1hP5Q==
 
 switchback@^2.0.1:
   version "2.0.5"
